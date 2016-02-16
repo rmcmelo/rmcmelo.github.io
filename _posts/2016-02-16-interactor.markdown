@@ -6,7 +6,7 @@ layout: post
 
 <blockquote>
   <p>
-    The human being who is interacting with a digital artifact. Preferable to <em>“user”</em> because the <em>artifact</em> is not necessarily a <em>tool</em>.
+    The human being who is interacting with a digital artifact. Preferable to <strong>“user”</strong> because the <strong>artifact</strong> is not necessarily a <strong>tool</strong>.
   </p>
   <footer><cite title="Janet H. Murray">Janet H. Murray</cite></footer>
 </blockquote>
