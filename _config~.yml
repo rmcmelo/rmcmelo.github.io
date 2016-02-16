@@ -4,7 +4,7 @@ email:       ricardo@ricardomelo.com
 author:      Ricardo Melo
 description: "Because the artifact is not necessarily a tool."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://interactor.net"
 date_format: "%b %-d, %Y"
 
 # Google services
