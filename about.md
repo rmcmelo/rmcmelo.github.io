@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Interactor
+title: About
 permalink: /about/
 tags: about
 ---
