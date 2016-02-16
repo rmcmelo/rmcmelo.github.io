@@ -1,6 +1,6 @@
 ---
 published: true
-title: Interactor
+title: “Interactor”
 layout: post
 tags: [quote]
 ---
