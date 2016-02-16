@@ -2,6 +2,7 @@
 published: true
 title: Interactor
 layout: post
+tags: [quote]
 ---
 
 <blockquote>
