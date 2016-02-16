@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rmcmelo.github.io
+title: Interactor
+email: ricardo@ricardomelo.net
+author: Ricardo Melo
+description: Because the artifact is not necessarily a tool.
+paginate: 5
+google_analytics: 
