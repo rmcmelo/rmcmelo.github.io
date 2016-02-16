@@ -3,4 +3,4 @@ published: true
 title: Hello world.
 layout: post
 ---
-Hello!
+This is my first post. It better be a good one!
