@@ -69,6 +69,10 @@ h1.entry-title a:hover {
 	box-shadow: 0 1px 0 0 currentColor;
 }
 
+h1.title {
+	margin: 0;
+	}
+
 h2 {
 	font-size: 23px;
 	font-size: 1.4375rem;
@@ -87,7 +91,7 @@ h3 {
 
 h4, h5, h6  {
 	font-size: 16px;
-	font-size: 1rem;
+	font-size: 1em;
 	line-height: 1.3125;
 	margin-top: 3.5em;
 	margin-bottom: 1.75em;
@@ -98,6 +102,13 @@ h4 {
 	text-transform: uppercase;
 }
 
+h4.subtitle {
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	margin-top: 0.2em;
+	margin-bottom: 2em;
+	}
 
 h6 {
 	font-style: italic;
@@ -267,14 +278,6 @@ div.post-thumbnail {
 	margin-bottom:	42px;
 	margin-right: 0px;
 }
-
-h1.title {
-	margin: 0;
-	}
-
-.tagline {
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
-	font-size: 1.2em;
 
 /* FONTS */
 @font-face {
